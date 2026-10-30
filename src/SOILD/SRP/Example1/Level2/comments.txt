@@ -1,0 +1,2 @@
+Now in the Level Employee class is only dealign with info related to employee.
+And we have separate classes for salary and performance.
