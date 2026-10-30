@@ -1,0 +1,4 @@
+So we have a class as an Employee that is handling multiple responsibilities.
+and it has multiple reasons to change.
+
+It is directly violating single responsibility principle.
